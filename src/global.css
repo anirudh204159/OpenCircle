@@ -1,0 +1,8 @@
+@import "./style.css";
+@import "./reset.css";
+
+.app-global-container{
+    padding: 20px 40px;
+    margin: 0 auto;
+    max-width: 1920px;
+}
